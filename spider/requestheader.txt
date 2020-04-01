@@ -1,0 +1,12 @@
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Accept: application/json, text/javascript, */*; q=0.01
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Host: www.cninfo.com.cn
+Origin: http://www.cninfo.com.cn
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.5 Safari/605.1.15
+Connection: keep-alive
+Referer: http://www.cninfo.com.cn/new/disclosure/stock?tabName=data&f002v=001001&stockCode=000001
+Content-Length: 68
+Cookie: JSESSIONID=04869577FF3D317F6032605D4E367AB7; _sp_id.2141=de135abe-baa3-45fa-8391-16784c32d04a.1584534410.1.1584536265.1584534410.ef8b2992-f0a0-4032-ac29-3f311d77b31e; _sp_ses.2141=*; cninfo_user_browse=000001,gssz0000001,%E5%B9%B3%E5%AE%89%E9%93%B6%E8%A1%8C|000002,gssz0000002,%E4%B8%87%20%20%E7%A7%91%EF%BC%A1; UC-JSESSIONID=ECB1F0C80C2C0F7A3429B8C469807D56; insert_cookie=37836164
+X-Requested-With: XMLHttpRequest
